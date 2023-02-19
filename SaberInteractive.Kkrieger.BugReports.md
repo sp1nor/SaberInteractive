@@ -317,3 +317,38 @@ The issue may be related to the HP calculation or consumption mechanics of the f
 
 ## Priority
 Medium
+
+----------------------------
+
+## Bug Report: The player gets stuck in columns and on the borders of surfaces
+
+## Product: [kkrieger demo]
+## Version: [unknown]
+## Operating System: [Windows 11 version 21H2]
+## Description
+
+When the player moves around the game world, they get stuck in columns and on the borders of surfaces, making it difficult to navigate the environment.
+## Expected Results
+
+The player should be able to move around the game world smoothly without getting stuck in columns or on the borders of surfaces.
+## Actual Results
+
+The player gets stuck in columns and on the borders of surfaces, making it difficult to navigate the environment.
+## Steps to Reproduce
+
+* Launch the game
+* Move the player character around the game world
+* Observe that the player character gets stuck in columns and on the * * borders of surfaces
+
+## Screenshots/Videos
+
+![player stuck in surfaces](/images/bug_stuck_in_textures.jpg "enemy in air")
+
+## Additional Information
+
+This issue occurs consistently and has been observed by multiple users.
+The issue may be related to the collision detection or pathfinding mechanics of the player character.
+
+## Priority
+
+High
