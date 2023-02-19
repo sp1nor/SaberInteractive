@@ -215,3 +215,37 @@ The issue may be related to the collision detection or pathfinding mechanism of 
 ## Priority
 
 Medium
+
+-----------
+
+## Bug Report: Projectiles from Weapon 5 sometimes pass through enemies
+
+## Product: [kkrieger demo]
+## Version: [unknown]
+## Operating System: [Windows 11 version 21H2]
+## Description
+
+When using Weapon 5, sometimes its projectiles pass through enemies without causing damage.
+## Expected Results
+Projectiles from Weapon 5 should hit enemies and cause damage upon contact.
+
+## Actual Results
+Projectiles from Weapon 5 sometimes pass through enemies without causing damage.
+
+## Steps to Reproduce
+
+* Launch the game
+* Equip Weapon 5
+* Engage in combat with enemies
+* Fire Weapon 5 at an enemy
+* Observe that sometimes the projectile passes through the enemy without causing damage
+
+## Additional Information
+
+This issue occurs inconsistently and has been observed by multiple users.
+It is unclear whether the issue affects all enemies or only specific ones.
+The issue may be related to the collision detection or hit detection mechanism of Weapon 5.
+
+## Priority
+
+Medium
