@@ -88,7 +88,7 @@ Medium
 
 -------------------------
 
-## Bug Report: Program freezes and becomes unresponsive when switching with Alt+Tab
+## Title: Program freezes and becomes unresponsive when switching with Alt+Tab
 ## Product: [kkrieger demo]
 ## Version: [unknown]
 ## Operating System: [Windows 11 version 21H2]
@@ -117,7 +117,7 @@ High
 
 -----------------
 
-## Bug Report: Mouse cursor freezes in one position and does not move when switching programs with Alt+Tab
+## Title: Mouse cursor freezes in one position and does not move when switching programs with Alt+Tab
 ## Product: [kkrieger demo]
 ## Version: [unknown]
 ## Operating System: [Windows 11 version 21H2]
@@ -149,7 +149,7 @@ High
 
 --------------
 
-## Bug Report: Enemy unit not active after spawning, not attacking, and not moving
+## Title: Enemy unit not active after spawning, not attacking, and not moving
 ## Product: [kkrieger demo]
 ## Version: [unknown]
 ## Operating System: [Windows 11 version 21H2]
@@ -180,7 +180,7 @@ High
 
 -------------
 
-## Bug Report: Enemy unit moves in the air after spawning
+## Title: Enemy unit moves in the air after spawning
 
 ## Product: [kkrieger demo]
 ## Version: [unknown]
@@ -218,7 +218,7 @@ Medium
 
 -----------
 
-## Bug Report: Projectiles from Weapon 5 sometimes pass through enemies
+## Title: Projectiles from Weapon 5 sometimes pass through enemies
 
 ## Product: [kkrieger demo]
 ## Version: [unknown]
@@ -252,7 +252,7 @@ Medium
 
 ----------------
 
-## Bug Report: Weapon 4 does not cause damage to the player, but the blast wave after attacking the enemy causes damage to the player
+## Title: Weapon 4 does not cause damage to the player, but the blast wave after attacking the enemy causes damage to the player
 
 ## Product: [kkrieger demo]
 ## Version: [unknown]
@@ -288,7 +288,7 @@ High
 
 ------------
 
-## Bug Report: First aid kit is used when the player has full HP
+## Title: First aid kit is used when the player has full HP
 
 ## Product: [kkrieger demo]
 ## Version: [unknown]
@@ -320,7 +320,7 @@ Medium
 
 ----------------------------
 
-## Bug Report: The player gets stuck in columns and on the borders of surfaces
+## Title: The player gets stuck in columns and on the borders of surfaces
 
 ## Product: [kkrieger demo]
 ## Version: [unknown]
