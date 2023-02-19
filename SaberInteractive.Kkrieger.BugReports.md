@@ -145,7 +145,7 @@ This issue occurs consistently and has been observed by multiple users.
 The issue may be resolved by restarting the program or the operating system.
 
 ## Priority
-Medium
+High
 
 --------------
 
@@ -177,3 +177,41 @@ The issue may be related to the spawning mechanism of the enemy units.
 ## Priority
 
 High
+
+-------------
+
+## Bug Report: Enemy unit moves in the air after spawning
+
+## Product: [kkrieger demo]
+## Version: [unknown]
+## Operating System: [Windows 11 version 21H2]
+## Description
+
+After an enemy unit spawns, it moves in the air instead of on the ground or intended path.
+## Expected Results
+
+Enemy units should move on the ground or on their intended path upon spawning, and not move in the air.
+## Actual Results
+
+Enemy units move in the air after spawning.
+
+## Steps to Reproduce
+
+*Launch the game
+*Begin a level or encounter where enemy units are spawned
+*Observe the behavior of the spawned enemy unit
+* Note that it moves in the air instead of on the ground or intended path
+
+## Screenshots/Videos
+
+![enemy in air](/images/bug_enemy_in_air.jpg "enemy in air")
+
+## Additional Information
+
+This issue occurs consistently and has been observed by multiple users.
+It is unclear whether the issue affects all types of enemy units or only specific ones.
+The issue may be related to the collision detection or pathfinding mechanism of the enemy units.
+
+## Priority
+
+Medium
