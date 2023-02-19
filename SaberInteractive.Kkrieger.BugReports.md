@@ -285,3 +285,35 @@ The issue may be related to the blast wave mechanics of Weapon 4.
 ## Priority
 
 High
+
+------------
+
+## Bug Report: First aid kit is used when the player has full HP
+
+## Product: [kkrieger demo]
+## Version: [unknown]
+## Operating System: [Windows 11 version 21H2]
+## Description
+
+When the player uses a first aid kit, it is consumed even if the player has full HP.
+
+## Expected Results
+The first aid kit should not be consumed when the player has full HP.
+
+## Actual Results
+The first aid kit is consumed even when the player has full HP.
+
+## Steps to Reproduce
+* Launch the game
+* Ensure that the player has full HP
+* Use a first aid kit
+* Observe that the first aid kit is consumed
+
+## Additional Information
+
+This issue occurs consistently and has been observed by multiple users.
+Other consumable items in the game do not have this issue.
+The issue may be related to the HP calculation or consumption mechanics of the first aid kit.
+
+## Priority
+Medium
