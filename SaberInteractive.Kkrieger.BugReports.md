@@ -197,9 +197,9 @@ Enemy units move in the air after spawning.
 
 ## Steps to Reproduce
 
-*Launch the game
-*Begin a level or encounter where enemy units are spawned
-*Observe the behavior of the spawned enemy unit
+* Launch the game
+* Begin a level or encounter where enemy units are spawned
+* Observe the behavior of the spawned enemy unit
 * Note that it moves in the air instead of on the ground or intended path
 
 ## Screenshots/Videos
@@ -249,3 +249,39 @@ The issue may be related to the collision detection or hit detection mechanism o
 ## Priority
 
 Medium
+
+----------------
+
+## Bug Report: Weapon 4 does not cause damage to the player, but the blast wave after attacking the enemy causes damage to the player
+
+## Product: [kkrieger demo]
+## Version: [unknown]
+## Operating System: [Windows 11 version 21H2]
+## Description
+
+When using Weapon 4, it does not cause damage to the player upon contact with its projectiles, but the blast wave after attacking the enemy causes damage to the player.
+
+## Expected Results
+
+Weapon 4 should cause damage to enemies upon contact with its projectiles, and not to the player. The blast wave should not cause damage to the player.
+
+## Actual Results
+Weapon 4 does not cause damage to the player upon contact with its projectiles, but the blast wave after attacking the enemy causes damage to the player.
+## Steps to Reproduce
+
+Launch the game
+Equip Weapon 4
+Engage in combat with enemies
+Fire Weapon 4 at an enemy
+Observe that the projectile does not cause any damage to the player
+Observe that the blast wave after attacking the enemy causes damage to the player
+
+## Additional Information
+
+This issue occurs consistently and has been observed by multiple users.
+Other weapons in the game do not have this issue.
+The issue may be related to the blast wave mechanics of Weapon 4.
+
+## Priority
+
+High
